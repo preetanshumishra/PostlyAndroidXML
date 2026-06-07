@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.PostlyAndroidXML" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/postly_gold</item>
+        <item name="colorSecondary">@color/postly_blue</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>

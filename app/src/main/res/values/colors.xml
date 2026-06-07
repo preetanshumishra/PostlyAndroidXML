@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="postly_blue">#FF0F3D8A</color>
+    <color name="postly_gold">#FFF5C451</color>
+    <color name="postly_surface">#FFF7F7F2</color>
+    <color name="warning_yellow">#FFFFCC00</color>
+</resources>
