@@ -1,8 +1,8 @@
-package com.preetanshu.postlyandroidxml.screens.login
+package com.preetanshumishra.postlyandroidxml.screens.login
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.preetanshu.postlyandroidxml.services.NetworkService
+import com.preetanshumishra.postlyandroidxml.services.NetworkService
 
 class LoginViewModelFactory(
     private val networkService: NetworkService

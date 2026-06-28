@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.screens.login
+package com.preetanshumishra.postlyandroidxml.screens.login
 
 data class LoginUiState(
     val username: String = "",

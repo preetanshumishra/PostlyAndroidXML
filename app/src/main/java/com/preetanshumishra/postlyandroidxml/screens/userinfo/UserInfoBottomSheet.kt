@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.screens.userinfo
+package com.preetanshumishra.postlyandroidxml.screens.userinfo
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,11 +6,11 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.preetanshu.postlyandroidxml.PostlyApplication
-import com.preetanshu.postlyandroidxml.R
-import com.preetanshu.postlyandroidxml.databinding.FragmentUserInfoBinding
-import com.preetanshu.postlyandroidxml.services.ImageLoaderService
-import com.preetanshu.postlyandroidxml.utilities.EmailValidator
+import com.preetanshumishra.postlyandroidxml.PostlyApplication
+import com.preetanshumishra.postlyandroidxml.R
+import com.preetanshumishra.postlyandroidxml.databinding.FragmentUserInfoBinding
+import com.preetanshumishra.postlyandroidxml.services.ImageLoaderService
+import com.preetanshumishra.postlyandroidxml.utilities.EmailValidator
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

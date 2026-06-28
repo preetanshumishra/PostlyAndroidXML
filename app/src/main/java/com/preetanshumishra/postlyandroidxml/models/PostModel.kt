@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.models
+package com.preetanshumishra.postlyandroidxml.models
 
 import kotlinx.serialization.Serializable
 

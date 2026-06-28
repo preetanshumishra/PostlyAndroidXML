@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.screens.postlist
+package com.preetanshumishra.postlyandroidxml.screens.postlist
 
 data class PostItem(
     val postId: Int,

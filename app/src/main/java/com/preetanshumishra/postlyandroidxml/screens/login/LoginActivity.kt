@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.screens.login
+package com.preetanshumishra.postlyandroidxml.screens.login
 
 import android.os.Bundle
 import android.view.View
@@ -8,10 +8,10 @@ import androidx.core.widget.doAfterTextChanged
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
-import com.preetanshu.postlyandroidxml.PostlyApplication
-import com.preetanshu.postlyandroidxml.databinding.ActivityLoginBinding
-import com.preetanshu.postlyandroidxml.screens.postlist.PostListActivity
-import com.preetanshu.postlyandroidxml.services.NetworkService
+import com.preetanshumishra.postlyandroidxml.PostlyApplication
+import com.preetanshumishra.postlyandroidxml.databinding.ActivityLoginBinding
+import com.preetanshumishra.postlyandroidxml.screens.postlist.PostListActivity
+import com.preetanshumishra.postlyandroidxml.services.NetworkService
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

@@ -1,8 +1,8 @@
-package com.preetanshu.postlyandroidxml.screens.postlist
+package com.preetanshumishra.postlyandroidxml.screens.postlist
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.preetanshu.postlyandroidxml.services.NetworkService
+import com.preetanshumishra.postlyandroidxml.services.NetworkService
 
 class PostListViewModelFactory(
     private val token: String,

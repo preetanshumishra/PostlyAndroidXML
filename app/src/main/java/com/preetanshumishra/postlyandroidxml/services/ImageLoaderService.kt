@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.services
+package com.preetanshumishra.postlyandroidxml.services
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory

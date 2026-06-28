@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.screens.postlist
+package com.preetanshumishra.postlyandroidxml.screens.postlist
 
 sealed interface PostListEvent {
     data object LoadPosts : PostListEvent

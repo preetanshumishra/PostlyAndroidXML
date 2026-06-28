@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.screens.postlist
+package com.preetanshumishra.postlyandroidxml.screens.postlist
 
 import android.graphics.Bitmap
 import android.view.LayoutInflater
@@ -6,9 +6,9 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.preetanshu.postlyandroidxml.R
-import com.preetanshu.postlyandroidxml.databinding.ItemPostBinding
-import com.preetanshu.postlyandroidxml.services.ImageLoaderService
+import com.preetanshumishra.postlyandroidxml.R
+import com.preetanshumishra.postlyandroidxml.databinding.ItemPostBinding
+import com.preetanshumishra.postlyandroidxml.services.ImageLoaderService
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch

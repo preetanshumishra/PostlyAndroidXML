@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.screens.postlist
+package com.preetanshumishra.postlyandroidxml.screens.postlist
 
 import android.content.Context
 import android.content.Intent
@@ -12,13 +12,13 @@ import androidx.lifecycle.repeatOnLifecycle
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.preetanshu.postlyandroidxml.PostlyApplication
-import com.preetanshu.postlyandroidxml.R
-import com.preetanshu.postlyandroidxml.databinding.ActivityPostListBinding
-import com.preetanshu.postlyandroidxml.screens.login.LoginActivity
-import com.preetanshu.postlyandroidxml.screens.userinfo.UserInfoBottomSheet
-import com.preetanshu.postlyandroidxml.services.ImageLoaderService
-import com.preetanshu.postlyandroidxml.services.NetworkService
+import com.preetanshumishra.postlyandroidxml.PostlyApplication
+import com.preetanshumishra.postlyandroidxml.R
+import com.preetanshumishra.postlyandroidxml.databinding.ActivityPostListBinding
+import com.preetanshumishra.postlyandroidxml.screens.login.LoginActivity
+import com.preetanshumishra.postlyandroidxml.screens.userinfo.UserInfoBottomSheet
+import com.preetanshumishra.postlyandroidxml.services.ImageLoaderService
+import com.preetanshumishra.postlyandroidxml.services.NetworkService
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 

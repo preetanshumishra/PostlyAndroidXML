@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.utilities
+package com.preetanshumishra.postlyandroidxml.utilities
 
 object EmailValidator {
 

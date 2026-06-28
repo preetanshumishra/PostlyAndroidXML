@@ -1,8 +1,8 @@
-package com.preetanshu.postlyandroidxml.services
+package com.preetanshumishra.postlyandroidxml.services
 
-import com.preetanshu.postlyandroidxml.models.LoginResponse
-import com.preetanshu.postlyandroidxml.models.PostModel
-import com.preetanshu.postlyandroidxml.models.UserModel
+import com.preetanshumishra.postlyandroidxml.models.LoginResponse
+import com.preetanshumishra.postlyandroidxml.models.PostModel
+import com.preetanshumishra.postlyandroidxml.models.UserModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import kotlinx.serialization.SerializationException

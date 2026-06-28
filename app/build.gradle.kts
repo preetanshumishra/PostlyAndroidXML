@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    namespace = "com.preetanshu.postlyandroidxml"
+    namespace = "com.preetanshumishra.postlyandroidxml"
     compileSdk = 36
     compileSdkMinor = 1
 
     defaultConfig {
-        applicationId = "com.preetanshu.postlyandroidxml"
+        applicationId = "com.preetanshumishra.postlyandroidxml"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.preetanshu.postlyandroidxml.screens.login
+package com.preetanshumishra.postlyandroidxml.screens.login
 
 sealed interface LoginEvent {
     data class UsernameChanged(val value: String) : LoginEvent
